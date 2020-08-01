@@ -3,11 +3,11 @@ This repository contains my solutions to the Coding Assignments for the course '
 ___
 ## Module 2
 
-_Module 2 Coding Assignment_
+_**Module 2 Coding Assignment**_
 
--[Module2 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+- [Module2 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 
--[Module2-solution](https://nikhilsadawarti.github.io/Coursera-course/Module2-solution/)
+- [Module2-solution](https://nikhilsadawarti.github.io/Coursera-course/Module2-solution/)
 
 >Happy Learning!
 
