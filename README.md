@@ -3,7 +3,7 @@ This repository contains my solutions to the Coding Assignments for the course '
 ___
 ## Module 2
 
-**Module 2 Coding Assignment**
+Module 2 Coding Assignment 
 
 - [*Module 2 description*](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 
