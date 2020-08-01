@@ -8,6 +8,19 @@ ___
 - [Module 2 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 
 - [Module2-solution](https://nikhilsadawarti.github.io/Coursera-course/Module2-solution/)
+___
+## Module 3
+
+**Module 3 Coding Assignment**
+___
+## Module 4
+
+**Module 4 coding Assignment**
+___
+
+
+
+
 
 >_**Happy Learning!**_
 
