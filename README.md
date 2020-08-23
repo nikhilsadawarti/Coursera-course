@@ -17,7 +17,7 @@ Module 3 Coding Assignment:
 
 - [*Module 3 description*](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 
-- [*Modulule 3 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module3-solution/)
+- [*Module 3 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module3-solution/)
 
 ___
 ### Module 4
@@ -26,7 +26,7 @@ Module 4 coding Assignment:
 
 - [*Module 4 description*](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 
-- [*Modulule 4 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module4-solution/)
+- [*Module 4 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module4-solution/)
 
 ___
 ### Module 5
@@ -35,7 +35,7 @@ Module 5 Coding Assignment:
 
 - [*Module 5 description*](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
 
-- [*Modulule 5 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module5-solution/)
+- [*Module 5 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module5-solution/)
 
 ___
 
