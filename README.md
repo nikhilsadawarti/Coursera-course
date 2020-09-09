@@ -40,7 +40,7 @@ Module 5 Coding Assignment:
 ___
 >_**Completion Certificate of this Course!**_
 
-[Completion Certificate](https://github.com/nikhilsadawarti/Coursera-course/blob/gh-pages/Certificate.PNG)
+![Completion Certificate](https://github.com/nikhilsadawarti/Coursera-course/blob/gh-pages/Certificate.PNG)
 
 
 
