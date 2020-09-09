@@ -38,7 +38,8 @@ Module 5 Coding Assignment:
 - [*Module 5 solution*](https://nikhilsadawarti.github.io/Coursera-course/Module5-solution/)
 
 ___
-
+>_**Completion Certificate of this Course!**_
+![Completion Certificate](https://github.com/nikhilsadawarti/Coursera-course/blob/gh-pages/Coursera%20MGX3G2QUZLKM.pdf)
 
 
 
